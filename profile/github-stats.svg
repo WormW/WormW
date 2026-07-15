@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">WormW &#30340; GitHub &#32479;&#35745;&#25968;&#25454;, Rank: B-</title>
-        <desc id="descId">获标星数: 4, 累计提交总数  : 748, 发起的 PR 总数: 107, 提出的 issue 总数: 6, 贡献的项目数（去年）: 8</desc>
+        <desc id="descId">获标星数: 4, 累计提交总数  : 753, 发起的 PR 总数: 108, 提出的 issue 总数: 6, 贡献的项目数（去年）: 8</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 162.6669095168362;
+        stroke-dashoffset: 162.38436273698665;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >748</text>
+      >753</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >107</text>
+      >108</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
