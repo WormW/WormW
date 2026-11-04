@@ -1,0 +1,18 @@
+<svg width="740" height="44" viewBox="0 0 740 44" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">技术栈</title>
+  <desc id="desc">Go、Python、TypeScript、JavaScript、YARA 和 Suricata</desc>
+  <g font-family="SFMono-Regular, Consolas, monospace" font-size="13" font-weight="600" text-anchor="middle">
+    <rect x="0" y="3" width="80" height="38" rx="5" fill="#00ADD8"/>
+    <text x="40" y="27" fill="#FFFFFF">Go</text>
+    <rect x="90" y="3" width="110" height="38" rx="5" fill="#3776AB"/>
+    <text x="145" y="27" fill="#FFFFFF">Python</text>
+    <rect x="210" y="3" width="140" height="38" rx="5" fill="#3178C6"/>
+    <text x="280" y="27" fill="#FFFFFF">TypeScript</text>
+    <rect x="360" y="3" width="145" height="38" rx="5" fill="#F7DF1E"/>
+    <text x="432.5" y="27" fill="#222222">JavaScript</text>
+    <rect x="515" y="3" width="90" height="38" rx="5" fill="#2457E6"/>
+    <text x="560" y="27" fill="#FFFFFF">YARA</text>
+    <rect x="615" y="3" width="125" height="38" rx="5" fill="#EF6C00"/>
+    <text x="677.5" y="27" fill="#FFFFFF">Suricata</text>
+  </g>
+</svg>
